@@ -1,0 +1,181 @@
+id,userId,storeId,action,actionTime
+1,11,4,Mengubah harga produk,2025-11-26 02:06:09.078651
+2,13,7,Melihat laporan penjualan bulanan,2025-11-12 20:41:09.078651
+3,25,2,Menambah stok baru,2025-11-06 14:52:09.078651
+4,13,7,Mencetak ulang struk transaksi,2025-11-27 14:51:09.078651
+5,20,4,Mendaftarkan pelanggan baru,2025-11-19 15:42:09.078651
+6,17,10,Membuka sesi kasir,2025-10-31 03:15:09.078651
+7,12,8,Menambah stok baru,2025-11-17 17:53:09.078651
+8,14,1,Membuka sesi kasir,2025-10-29 09:42:09.078651
+9,10,6,Mengunci data shift (shift closure),2025-11-18 22:19:09.078651
+10,11,5,Melihat laporan penjualan bulanan,2025-11-27 04:22:09.078651
+11,23,3,Melihat laporan penjualan bulanan,2025-11-06 02:33:09.078651
+12,23,3,Mengunci data shift (shift closure),2025-11-02 00:57:09.078651
+13,20,4,Melakukan penyesuaian stok (stok opname),2025-11-04 22:17:09.078651
+14,20,4,Mengubah harga produk,2025-11-27 07:31:09.078651
+15,12,8,Melakukan penyesuaian stok (stok opname),2025-11-21 17:48:09.078651
+16,23,3,Menerima pesanan pembelian (PO),2025-11-16 12:47:09.078651
+17,24,8,Menerima pesanan pembelian (PO),2025-11-22 22:24:09.078651
+18,22,1,Melakukan penyesuaian stok (stok opname),2025-11-05 01:24:09.078651
+19,24,8,Mendaftarkan pelanggan baru,2025-11-27 15:09:09.078651
+20,9,3,Melakukan penyesuaian stok (stok opname),2025-11-19 05:14:09.078651
+21,11,4,Membuka sesi kasir,2025-11-11 17:31:09.078651
+22,9,3,Mendaftarkan pelanggan baru,2025-11-19 15:54:09.078651
+23,14,1,Mengunci data shift (shift closure),2025-11-23 07:37:09.078651
+24,13,7,Mengubah harga produk,2025-11-23 13:07:09.078651
+25,16,9,Login berhasil,2025-11-04 15:00:09.078651
+26,18,9,Login berhasil,2025-11-27 12:07:09.078651
+27,22,6,Login berhasil,2025-11-21 17:00:09.078651
+28,9,3,Menambah stok baru,2025-11-10 06:23:09.078651
+29,10,6,Menerima pesanan pembelian (PO),2025-11-27 22:28:09.078651
+30,14,1,Menambah stok baru,2025-11-06 04:02:09.078651
+31,20,4,Mengunci data shift (shift closure),2025-11-18 11:44:09.078651
+32,15,4,Melakukan penyesuaian stok (stok opname),2025-11-05 21:18:09.078651
+33,17,10,Menambah stok baru,2025-11-21 11:07:09.078651
+34,22,6,Melihat laporan penjualan bulanan,2025-11-18 19:32:09.078651
+35,26,8,Mengubah data pelanggan,2025-11-19 15:58:09.078651
+36,11,5,Mengunci data shift (shift closure),2025-11-19 16:07:09.078651
+37,21,7,Mengubah data pelanggan,2025-11-02 00:34:09.078651
+38,20,4,Melakukan penyesuaian stok (stok opname),2025-11-10 06:24:09.078651
+39,14,1,Mengubah data pelanggan,2025-11-04 22:28:09.078651
+40,21,7,Mendaftarkan pelanggan baru,2025-11-07 09:31:09.078651
+41,8,2,Menambah stok baru,2025-11-02 18:35:09.078651
+42,11,5,Mendaftarkan pelanggan baru,2025-11-08 03:45:09.078651
+43,12,8,Membuka sesi kasir,2025-10-31 00:00:09.078651
+44,11,5,Membuka sesi kasir,2025-11-25 05:29:09.078651
+45,26,8,Melihat laporan penjualan bulanan,2025-11-24 01:32:09.078651
+46,22,6,Logout,2025-10-31 14:15:09.078651
+47,15,4,Mencetak ulang struk transaksi,2025-11-04 03:37:09.078651
+48,19,1,Mengubah harga produk,2025-11-09 23:24:09.078651
+49,25,2,Menerima pesanan pembelian (PO),2025-11-24 15:33:09.078651
+50,24,8,Mendaftarkan pelanggan baru,2025-11-11 18:02:09.078651
+51,24,8,Mengubah data pelanggan,2025-11-01 00:24:09.078651
+52,15,4,Mencetak ulang struk transaksi,2025-11-22 09:05:09.078651
+53,20,4,Mengubah harga produk,2025-11-13 00:01:09.078651
+54,9,3,Menambah stok baru,2025-11-14 09:29:09.078651
+55,12,8,Melakukan penyesuaian stok (stok opname),2025-11-09 04:11:09.078651
+56,23,5,Menerima pesanan pembelian (PO),2025-11-07 08:38:09.078651
+57,12,8,Menambah stok baru,2025-11-21 16:43:09.078651
+58,24,3,Login berhasil,2025-11-01 08:43:09.078651
+59,15,4,Melihat laporan penjualan bulanan,2025-11-08 20:00:09.078651
+60,23,3,Mengunci data shift (shift closure),2025-11-11 20:41:09.078651
+61,22,1,Mengubah harga produk,2025-11-21 11:18:09.078651
+62,10,6,Menerima pesanan pembelian (PO),2025-11-15 15:14:09.078651
+63,14,1,Mendaftarkan pelanggan baru,2025-10-29 23:07:09.078651
+64,13,7,Menerima pesanan pembelian (PO),2025-11-10 17:37:09.078651
+65,26,8,Menerima pesanan pembelian (PO),2025-11-10 13:22:09.078651
+66,9,3,Melihat laporan penjualan bulanan,2025-11-02 01:13:09.078651
+67,8,2,Mengubah data pelanggan,2025-11-01 02:23:09.078651
+68,23,5,Login berhasil,2025-11-27 02:49:09.078651
+69,25,2,Mendaftarkan pelanggan baru,2025-11-18 12:36:09.078651
+70,11,5,Mengubah data pelanggan,2025-11-25 22:08:09.078651
+71,15,4,Mengubah data pelanggan,2025-11-04 10:32:09.078651
+72,16,9,Mengubah data pelanggan,2025-11-21 06:15:09.078651
+73,21,7,Mencetak ulang struk transaksi,2025-11-25 14:47:09.078651
+74,24,3,Menambah stok baru,2025-11-01 00:59:09.078651
+75,21,7,Membuka sesi kasir,2025-11-12 00:32:09.078651
+76,11,4,Mengubah data pelanggan,2025-10-29 12:27:09.078651
+77,22,1,Mengubah harga produk,2025-11-20 05:37:09.078651
+78,22,6,Mendaftarkan pelanggan baru,2025-11-23 17:08:09.078651
+79,17,10,Mendaftarkan pelanggan baru,2025-11-14 06:59:09.078651
+80,21,7,Login berhasil,2025-11-08 17:55:09.078651
+81,17,10,Logout,2025-11-17 21:02:09.078651
+82,12,8,Menambah stok baru,2025-11-20 01:46:09.078651
+83,18,9,Mendaftarkan pelanggan baru,2025-11-19 14:55:09.078651
+84,7,10,Mengunci data shift (shift closure),2025-11-19 05:44:09.078651
+85,8,2,Membuka sesi kasir,2025-11-27 23:40:09.078651
+86,15,4,Membuka sesi kasir,2025-11-18 03:22:09.078651
+87,7,10,Login berhasil,2025-11-11 08:44:09.078651
+88,9,3,Membuka sesi kasir,2025-11-02 02:57:09.078651
+89,11,4,Mencetak ulang struk transaksi,2025-11-03 03:50:09.078651
+90,11,5,Login berhasil,2025-11-05 01:19:09.078651
+91,11,4,Menambah stok baru,2025-11-13 17:19:09.078651
+92,10,6,Melihat laporan penjualan bulanan,2025-11-01 16:48:09.078651
+93,21,7,Melakukan penyesuaian stok (stok opname),2025-11-17 12:38:09.078651
+94,13,7,Mencetak ulang struk transaksi,2025-11-10 17:07:09.078651
+95,22,1,Melihat laporan penjualan bulanan,2025-10-28 17:36:09.078651
+96,21,7,Mencetak ulang struk transaksi,2025-11-14 08:51:09.078651
+97,19,1,Mendaftarkan pelanggan baru,2025-11-05 14:01:09.078651
+98,12,8,Menerima pesanan pembelian (PO),2025-11-27 10:35:09.078651
+99,11,5,Mendaftarkan pelanggan baru,2025-11-04 15:30:09.078651
+100,19,1,Menambah stok baru,2025-11-26 05:35:09.078651
+101,11,4,Mengunci data shift (shift closure),2025-11-24 18:23:09.078651
+102,13,7,Mendaftarkan pelanggan baru,2025-10-28 15:25:09.078651
+103,8,2,Mengubah data pelanggan,2025-10-29 04:45:09.078651
+104,7,10,Mengubah harga produk,2025-11-17 15:39:09.078651
+105,21,7,Mencetak ulang struk transaksi,2025-11-05 02:25:09.078651
+106,13,7,Mendaftarkan pelanggan baru,2025-11-05 13:11:09.078651
+107,22,6,Logout,2025-10-31 08:47:09.078651
+108,24,3,Mengubah harga produk,2025-11-06 13:23:09.078651
+109,7,10,Mencetak ulang struk transaksi,2025-11-01 06:32:09.078651
+110,18,9,Mengunci data shift (shift closure),2025-11-25 11:58:09.078651
+111,11,5,Logout,2025-11-24 15:07:09.078651
+112,12,8,Mengunci data shift (shift closure),2025-11-15 10:06:09.078651
+113,21,7,Membuka sesi kasir,2025-11-20 13:31:09.078651
+114,10,6,Membuka sesi kasir,2025-11-02 13:50:09.078651
+115,24,8,Mengunci data shift (shift closure),2025-11-01 12:18:09.078651
+116,11,4,Melihat laporan penjualan bulanan,2025-11-09 03:59:09.078651
+117,23,5,Menambah stok baru,2025-11-23 20:53:09.078651
+118,23,5,Mengunci data shift (shift closure),2025-11-18 00:18:09.078651
+119,11,4,Menambah stok baru,2025-11-12 17:45:09.078651
+120,24,3,Mendaftarkan pelanggan baru,2025-11-14 14:21:09.078651
+121,25,2,Mencetak ulang struk transaksi,2025-11-03 05:33:09.078651
+122,24,8,Mengubah data pelanggan,2025-11-08 03:23:09.078651
+123,22,1,Mengubah harga produk,2025-10-28 20:22:09.078651
+124,10,6,Membuka sesi kasir,2025-11-01 03:00:09.078651
+125,7,10,Melakukan penyesuaian stok (stok opname),2025-11-03 04:22:09.078651
+126,9,3,Menambah stok baru,2025-11-15 15:25:09.078651
+127,8,2,Login berhasil,2025-11-26 01:48:09.078651
+128,25,2,Menambah stok baru,2025-11-13 07:13:09.078651
+129,22,6,Logout,2025-11-12 11:45:09.078651
+130,8,2,Mengubah harga produk,2025-11-22 10:22:09.078651
+131,22,1,Menerima pesanan pembelian (PO),2025-11-14 11:27:09.078651
+132,22,1,Mengubah harga produk,2025-11-18 18:01:09.078651
+133,22,6,Melakukan penyesuaian stok (stok opname),2025-10-28 23:47:09.078651
+134,23,3,Membuka sesi kasir,2025-11-15 21:08:09.078651
+135,19,1,Login berhasil,2025-11-03 21:18:09.078651
+136,11,5,Mengubah harga produk,2025-10-31 19:53:09.078651
+137,7,10,Melihat laporan penjualan bulanan,2025-11-09 13:10:09.078651
+138,9,3,Melihat laporan penjualan bulanan,2025-11-12 21:40:09.078651
+139,22,6,Mengubah harga produk,2025-11-17 22:26:09.078651
+140,20,4,Mengubah data pelanggan,2025-11-07 23:59:09.078651
+141,18,9,Mendaftarkan pelanggan baru,2025-11-07 13:36:09.078651
+142,21,7,Mengubah data pelanggan,2025-11-10 11:26:09.078651
+143,26,8,Mengunci data shift (shift closure),2025-10-28 18:28:09.078651
+144,11,5,Login berhasil,2025-11-20 06:40:09.078651
+145,11,5,Melakukan penyesuaian stok (stok opname),2025-10-31 03:00:09.078651
+146,25,2,Mengubah harga produk,2025-10-30 04:10:09.078651
+147,16,9,Mendaftarkan pelanggan baru,2025-11-01 11:46:09.078651
+148,12,8,Logout,2025-11-21 09:49:09.078651
+149,18,9,Melakukan penyesuaian stok (stok opname),2025-11-26 05:37:09.078651
+150,15,4,Menambah stok baru,2025-11-01 20:11:09.078651
+151,24,3,Melihat laporan penjualan bulanan,2025-11-14 09:38:09.078651
+152,26,8,Login berhasil,2025-11-07 01:23:09.078651
+153,14,1,Mengunci data shift (shift closure),2025-11-01 00:17:09.078651
+154,10,6,Login berhasil,2025-11-08 08:37:09.078651
+155,9,3,Mengubah harga produk,2025-11-09 07:31:09.078651
+156,11,4,Menambah stok baru,2025-11-18 21:00:09.078651
+157,9,3,Mengubah harga produk,2025-11-10 08:12:09.078651
+158,22,1,Membuka sesi kasir,2025-11-07 07:59:09.078651
+159,24,8,Melakukan penyesuaian stok (stok opname),2025-11-23 08:51:09.078651
+160,21,7,Mengunci data shift (shift closure),2025-11-25 00:01:09.078651
+161,24,8,Mencetak ulang struk transaksi,2025-11-06 06:39:09.078651
+162,20,4,Mengunci data shift (shift closure),2025-11-01 04:16:09.078651
+163,11,4,Logout,2025-11-02 07:00:09.078651
+164,11,4,Mengunci data shift (shift closure),2025-11-01 14:13:09.078651
+165,21,7,Melihat laporan penjualan bulanan,2025-11-21 16:46:09.078651
+166,11,4,Mengubah data pelanggan,2025-10-31 16:52:09.078651
+167,24,3,Membuka sesi kasir,2025-11-13 13:48:09.078651
+168,17,10,Mendaftarkan pelanggan baru,2025-11-02 22:28:09.078651
+169,23,5,Mengubah data pelanggan,2025-11-10 04:47:09.078651
+170,20,4,Membuka sesi kasir,2025-11-16 19:37:09.078651
+171,20,4,Menambah stok baru,2025-11-14 22:07:09.078651
+172,19,1,Logout,2025-11-26 11:03:09.078651
+173,7,10,Mendaftarkan pelanggan baru,2025-11-02 05:42:09.078651
+174,13,7,Menambah stok baru,2025-11-14 11:27:09.078651
+175,11,4,Login berhasil,2025-10-28 17:06:09.078651
+176,7,10,Login berhasil,2025-11-10 09:24:09.078651
+177,12,8,Menerima pesanan pembelian (PO),2025-11-21 10:48:09.078651
+178,14,1,Melakukan penyesuaian stok (stok opname),2025-11-07 06:26:09.078651
+179,15,4,Menambah stok baru,2025-11-21 20:16:09.078651
+180,24,3,Mengunci data shift (shift closure),2025-11-03 12:34:09.078651
