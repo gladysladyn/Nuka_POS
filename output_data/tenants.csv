@@ -1,6 +1,0 @@
-id,userId,name,npwp,npwpImage,address,provinceId,cityId,districtId,villageId,postalCode,tenantStatus,createdAt,updatedAt
-1,2,Gangsar Pradana,9828894677489312.0,npwp_tenant_1.jpg,"Gg. Pasirkoja No. 65, Kel. Gunung Samarinda Baru",64,6471,647103,6471031005,99474,ACTIVE,2025-11-06 06:55:48.348783,2025-11-28 06:55:48.348783
-2,3,Tantri Pudjiastuti,8778865050834625.0,npwp_tenant_2.jpg,"Gg. Sadang Serang No. 42, Kel. Damai",64,6471,647106,6471061005,17581,ACTIVE,2025-11-02 06:55:48.348783,2025-11-28 06:55:48.348783
-3,4,Hafshah Hartati,4335138493812498.0,npwp_tenant_3.jpg,"Gg. PHH. Mustofa No. 9, Kel. Lamaru",64,6471,647101,6471011002,55537,ACTIVE,2025-11-15 06:55:48.348783,2025-11-28 06:55:48.348783
-4,5,Galih Waskita,9871234471588426.0,npwp_tenant_4.jpg,"Gang Gardujati No. 9, Kel. Damai Baru",64,6471,647105,6471051011,83224,ACTIVE,2025-11-02 06:55:48.348783,2025-11-28 06:55:48.348783
-5,6,Darman Tamba,2891363908627696.0,npwp_tenant_5.jpg,"Gang Sadang Serang No. 5, Kel. Karang Jati",64,6471,647104,6471041004,40742,ACTIVE,2025-11-03 06:55:48.348783,2025-11-28 06:55:48.348783
